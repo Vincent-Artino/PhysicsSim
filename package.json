@@ -1,0 +1,23 @@
+{
+  "name": "physicssim",
+  "version": "1.0.0",
+  "description": "A simple website for physics simulations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vincent-Artino/PhysicsSim.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vincent-Artino/PhysicsSim/issues"
+  },
+  "homepage": "https://github.com/Vincent-Artino/PhysicsSim#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "matter-js": "^0.17.1"
+  }
+}
